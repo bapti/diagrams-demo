@@ -2,13 +2,10 @@
 
 #### Contents
 
-- [Dummy](#dummy)
 - [Exchange](#exchange)
 - [How to write diagrams](#how-to-write-diagrams)
 - [How to generate diagrams](#instructions-to-generate-diagrams)
 
-#### Dummy
-![Dummy](./img/dummy.png)
 #### Exchange
 ![Exchange](./img/exchange.png)
 
