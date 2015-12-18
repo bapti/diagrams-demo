@@ -1,0 +1,12 @@
+@startuml
+
+title An exchange between Andy and Neil
+
+actor Neil
+actor Andy
+actor Richard
+
+Andy -> Neil    : Hi Neil - how can we develop front end functionality faster?
+Neil -> Andy    : More Node?
+
+@enduml

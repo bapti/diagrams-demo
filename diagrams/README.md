@@ -1,13 +1,16 @@
-# Diagrams for my cool project
+# Diagrams for diagrams demo
 
 #### Contents
 
 - [Dummy](#dummy)
+- [Exchange](#exchange)
 - [How to write diagrams](#how-to-write-diagrams)
 - [How to generate diagrams](#instructions-to-generate-diagrams)
 
 #### Dummy
 ![Dummy](./img/dummy.png)
+#### Exchange
+![Exchange](./img/exchange.png)
 
 #### How to write diagrams
 
